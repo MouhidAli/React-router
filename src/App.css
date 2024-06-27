@@ -1,0 +1,19 @@
+.app{
+  text-align: center;
+}
+h1{
+  background-color: purple;
+  color: white;
+}
+
+.link{
+  margin: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  
+}
+
+.link:hover{
+  color: green;
+}
+
